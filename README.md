@@ -1,1 +1,1 @@
-# E-Commerce-Application
+# ekart-ecommerce-application
